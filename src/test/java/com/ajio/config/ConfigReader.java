@@ -13,6 +13,8 @@ public class ConfigReader {
 		FileInputStream fis = new FileInputStream(file);
 		prop = new Properties();
 		prop.load(fis);
+                 ===============================Manimaran@Nirmal home=============new Change
+
 	}
 
 	public String getBrowser() {
